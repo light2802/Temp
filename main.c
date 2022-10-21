@@ -1,10 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-long int add(long int a, long int b)
-{
-    return a+b;
-}
+#include "add.h"
 
 int main(int argc, char **argv)
 {
